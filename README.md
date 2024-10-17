@@ -7,4 +7,8 @@ Homebrew is not supported on windows so I downloaded Git manually (I will get my
 anyways
 
 ##**write something**
+
 VS GH push editing
+
+##**it apparently works now** 
+I had to add Git PATH to Environment Variables manualy to make it work
